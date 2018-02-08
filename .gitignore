@@ -6,3 +6,4 @@ out/
 classpy.sublime-workspace
 classpy.iml
 .DS_Store
+target/
